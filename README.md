@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐹 Coderoller Web UI (Enterprise Edition)
+# Coderoller Web UI (Enterprise Edition)
 
 
 
