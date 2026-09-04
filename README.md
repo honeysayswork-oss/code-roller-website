@@ -1,9 +1,6 @@
 <div align="center">
 
 # Coderoller Web UI (Enterprise Edition)
-
-
-
 ![Build Status](https://img.shields.io/badge/build-failing%20miserably-red.svg)
 ![Coverage](https://img.shields.io/badge/coverage--12%25-critical)
 ![Dependencies](https://img.shields.io/badge/dependencies-943%20vulnerabilities-yellow)
